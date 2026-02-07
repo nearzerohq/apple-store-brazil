@@ -6,7 +6,6 @@ import FeaturedProducts from "../components/FeaturedProducts";
 const Home = () => {
   return (
     <main>
-      <ProductGrid />
       <FeaturedProducts />
     </main>
   );
